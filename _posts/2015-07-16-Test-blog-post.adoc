@@ -2,7 +2,7 @@
 
 :hp-tags: tag1, tag2
 
-image::http://soft.wayr.fr/wp-content/uploads/2011/03/resident_evil_viruss_display-e1299145948835.jpg[role="thumb"]
+image::http://soft.wayr.org/wp-content/uploads/2011/03/resident_evil_viruss_display-e1299145948835.jpg[role="thumb"]
 
 == second level 
 
