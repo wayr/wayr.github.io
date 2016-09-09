@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[soft.wAyr.org]]></title><description><![CDATA[soft.wAyr.org]]></description><link>https://wayr.github.io</link><generator>RSS for Node</generator><lastBuildDate>Fri, 09 Sep 2016 19:35:49 GMT</lastBuildDate><atom:link href="https://wayr.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Test blog post]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="imageblock thumb">
+<div class="content">
+<img src="http://soft.wayr.org/wp-content/uploads/2011/03/resident_evil_viruss_display-e1299145948835.jpg" alt="resident evil viruss display e1299145948835.jpg">
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_second_level">second level</h2>
+<div class="sectionbody">
+<div class="sect2">
+<h3 id="_thrid_level">thrid level</h3>
+<div class="listingblock">
+<div class="content">
+<pre>block1</pre>
+</div>
+</div>
+<div class="exampleblock">
+<div class="content">
+<div class="paragraph">
+<p>exemple</p>
+</div>
+</div>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>litteral</pre>
+</div>
+</div>
+<div class="quoteblock">
+<blockquote>
+<div class="paragraph">
+<p>quotation</p>
+</div>
+</blockquote>
+</div>
+<div class="sidebarblock">
+<div class="content">
+<div class="paragraph">
+<p>sidebar</p>
+</div>
+</div>
+</div>
+<table class="tableblock frame-all grid-all spread">
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<thead>
+<tr>
+<th class="tableblock halign-left valign-top">Name</th>
+<th class="tableblock halign-left valign-top">Group</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Firefox</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Web Browser</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Ruby</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Programming Language
+</p><p class="tableblock">&#8230;&#8203;</p></td>
+</tr>
+</tbody>
+</table>
+<div class="listingblock">
+<div class="content">
+<pre class="highlight"><code class="language-ruby" data-lang="ruby">require 'asciidoctor'
+
+puts Asciidoctor.convert_file('sample.adoc', :header_footer =&gt; true)</code></pre>
+</div>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre class="highlight"><code class="language-php" data-lang="php">$var = array("text", 1.0);</code></pre>
+</div>
+</div>
+<div class="sidebarblock">
+<div class="content">
+<div class="title">Related information</div>
+<div class="paragraph">
+<p>This is aside text.</p>
+</div>
+<div class="paragraph">
+<p>It is used to present information related to the main content.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></description><link>https://wayr.github.io/2015/07/16/Test-blog-post.html</link><guid isPermaLink="true">https://wayr.github.io/2015/07/16/Test-blog-post.html</guid><category><![CDATA[tag1]]></category><category><![CDATA[ tag2]]></category><pubDate>Thu, 16 Jul 2015 00:00:00 GMT</pubDate></item></channel></rss>
